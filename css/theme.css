@@ -23,6 +23,7 @@ html, body {
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-stroke: rgba(255,255,255,0.01) 0.1px;
 	-webkit-text-stroke-width: 0.1px;
+         height: 100%;
 }
 
 a:visited, a:focus{color: none;}
@@ -1345,16 +1346,16 @@ span.price {
 }
 .post-date {
     color: #FFFFFF;
-    font-size: 36px;
+    font-size: 24px;
     left: -10px;
-    padding: 5px 30px 15px;
+    padding: 5px 10px 5px;
     text-align: center;
     top: -10px;
 	box-shadow: 0 12px 19px rgba(255, 255, 255, 0.1) inset, 0 1px 7px rgba(0, 0, 0, 0.2);
 }
 .post-date span {
     display: block;
-    font-size: 24px;
+    font-size: 18px;
 }
 
 h3.entry-title {
